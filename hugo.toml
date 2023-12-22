@@ -1,6 +1,6 @@
 baseURL = 'https://xueqihan.github.io/three-people/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '三人行'
 theme = 'ananke'
 publishDir = "docs" 
 canonifyurls = true
