@@ -2,11 +2,11 @@
 title:  "地震灾区“帐篷小学”：播种爱国梦的温暖课堂"
 author:  "桑吉卓玛"
 date:  "2023-12-21"
-featured_image:  "/images/4.jpg"
+featured_image:  "/images/13.jpg"
 ---
 
 地震灾区“帐篷小学”：播种爱国梦的温暖课堂
-![markdown](/images/4.jpg)
+![markdown](/images/13.jpg)
 
 &emsp;&emsp;地震发生后，积石山县部分学校受损严重，孩子们的学习生活受到严重影响。为了不让孩子们落下课程，同时安抚他们的情绪，陆军第76集团军某旅官兵迅速行动，利用现有物资在临时安置点搭建起“帐篷小学”。
 
