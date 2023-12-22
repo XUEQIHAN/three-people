@@ -3,6 +3,7 @@ title:  "爱心牛肉面 温暖积石山受灾群众"
 author:  "李培冉"
 date:  "2023-12-20"
 featured_image:  "/images/11.jpg"
+weight: "3"
 ---
 
 爱心牛肉面 温暖积石山受灾群众

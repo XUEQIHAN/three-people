@@ -3,6 +3,7 @@ title:  "甘肃临夏州积石山县发生6.2级地震 救援有序进行"
 author:  "桑吉卓玛"
 date:  "2023-12-19"
 featured_image:  "/images/1.jpg"
+weight: "1"
 ---
 
 甘肃临夏州积石山县发生6.2级地震 救援有序进行
@@ -16,4 +17,5 @@ featured_image:  "/images/1.jpg"
 &emsp;&emsp;在安置方面，积石山县大河家镇已有序展开安置工作，确保受灾群众得到妥善安置。目前，灾区物资保障同步展开，各方力量共同努力，确保受灾群众生活得到保障。
 
 &emsp;&emsp;截至今日，此次地震已造成一定程度的伤亡和财产损失。各方正全力以赴开展救援工作，争取将损失降到最低。在此，我们向受灾群众表示深切慰问，向奋战在救援一线的全体人员致以崇高敬意。地震救援工作仍在紧张进行中，相关信息将第一时间向社会公布。请大家关注官方消息，不信谣、不传谣，共同为灾区群众祈福，为我国地震救援工作贡献力量。
----
+
+<iframe src="//player.bilibili.com/player.html?aid=495099969&bvid=BV1tK411879h&cid=1375352064&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height= "600px" width= "800px"> </iframe>
